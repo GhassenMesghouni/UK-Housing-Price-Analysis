@@ -1,0 +1,11 @@
+Price,Year,Property_Type,Bedrooms,Bathrooms,Location,Size_sqft
+250000,2023,Detached,3,2,London,1200
+320000,2022,Semi-Detached,4,3,Manchester,1400
+180000,2023,Flat,2,1,Leeds,700
+275000,2021,Terraced,3,2,Birmingham,1100
+400000,2023,Detached,5,3,Oxford,1800
+150000,2022,Flat,1,1,Liverpool,650
+500000,2023,Detached,4,3,Cambridge,1600
+220000,2021,Terraced,2,1,Sheffield,900
+310000,2022,Semi-Detached,4,2,Bristol,1350
+450000,2023,Detached,5,4,London,2000
